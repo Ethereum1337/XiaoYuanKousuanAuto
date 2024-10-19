@@ -1,0 +1,2 @@
+# XiaoYuanKousuanAuto
+小猿口算自动刷分协议src发行版，有效解决Newfag不会配置环境等问题
